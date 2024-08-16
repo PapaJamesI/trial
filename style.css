@@ -340,9 +340,9 @@
         height: 40vh;
     }
 
-    .section2 .section2-container{
+    /* .section2 .section2-container{
         padding-left: 4.5rem;
-    }
+    } */
 
     .section2 .section2-container .left{
         display: none;
@@ -406,4 +406,5 @@
         margin: 0;
         display: block;
     }
+
 }
